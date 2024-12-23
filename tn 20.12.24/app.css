@@ -1,0 +1,61 @@
+
+tr bgcolor{
+    background: aqua;
+}
+i{
+    color:  white;
+}
+table{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
+td{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
+b{
+        color: black;
+}
+td{
+    color: white;
+}
+tr bgcolor{
+    background-color: yellow;
+}
+table{
+    border-color: red;
+    border-width: 3px;
+    background-color: green;
+}
+b{
+    color: white;
+}
+table{
+    border-color: red;
+    border-style: dotted;
+}
+td{
+    border-color: red;
+    border-style: dotted;
+}
+table{
+    border-color: red;
+    border-width: 3px;
+}
+td{
+    color: white;
+    border-width: 4px;
+}
+h2{
+    color: rgb(98,190,98);
+}
+legend{
+    color: brown;
+}
+form{
+     background: pink;
+}
+
+
